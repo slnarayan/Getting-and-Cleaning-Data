@@ -23,5 +23,6 @@ Prior to running the script, the following files should be available in the curr
 
 Running the script
 - source("run_analysis.R")
+
 Output
 - The output file courseprojectoutput.txt will be created in the working directory

@@ -9,19 +9,19 @@ File Inventory:
 - courseprojectoutput.txt - The tidy data set created by running the run_analysis.R script
 
 Prior to running the script, the following files should be available in the current working directory:
--- run_analysis.R
--- assignActivityNames.R
--- assigncolnames.R
--- subject_test.txt
--- X_test.txt
--- y_test.txt
--- subject_train.txt
--- X_train.txt
--- y_train.txt
--- features.txt
--- activity_labels.txt
+- run_analysis.R
+- assignActivityNames.R
+- assigncolnames.R
+- subject_test.txt
+- X_test.txt
+- y_test.txt
+- subject_train.txt
+- X_train.txt
+- y_train.txt
+- features.txt
+- activity_labels.txt
 
 Running the script
--- source("run_analysis.R")
+- source("run_analysis.R")
 Output
--- The output file courseprojectoutput.txt will be created in the working directory
+- The output file courseprojectoutput.txt will be created in the working directory
